@@ -1,35 +1,40 @@
 class Solution {
 public:
-    int t[101][101];
-    bool isvalid(int i,int open,string s,int n){
-        if(i == n){
-            if(open == 0) return true;
-            return false;
-        }
-        if(t[i][open] != -1){
-            return t[i][open];
-        }
-        bool valid = false;
-        if(s[i] == '('){
-            valid |= isvalid(i+1,open+1,s,n);
-        }
-        else if(s[i] == '*'){
-            valid |= isvalid(i+1,open+1,s,n); //consider it open
-            valid |= isvalid(i+1,open,s,n); //consider it empty("")
-            if(open>0){
-                valid |= isvalid(i+1,open-1,s,n);
-            }
-        }   
-        else{
-            if(open>0){
-                valid |= isvalid(i+1,open-1,s,n);
-            }
-        }
-        return t[i][open] = valid;
-    }
     bool checkValidString(string s) {
-        memset(t,-1,sizeof(t));
+        stack<int>open;
+        stack<int>ast; //for asterick 
+
         int n = s.size();
-        return isvalid(0,0,s,n);
+        for(int i=0;i<n;i++){
+            if(s[i] == '('){
+                open.push(i);
+            }
+            else if(s[i] == '*'){
+                ast.push(i);
+            }
+            else{
+                if(!open.empty()){
+                    open.pop();
+                }else if(!ast.empty()){
+                    ast.pop();
+                } else{
+                    return false;
+                }
+            }
+        }
+        while(!open.empty() && !ast.empty()){
+            if(ast.top() > open.top()){
+                open.pop();
+                ast.pop();
+            }
+            else{
+                return false;
+            }
+        }
+
+        if(open.empty()){
+            return true;
+        }
+        return false;
     }
 };
