@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2104-sum-of-subarray-ranges) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
