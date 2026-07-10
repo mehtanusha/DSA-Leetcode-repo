@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
