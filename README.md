@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
