@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
