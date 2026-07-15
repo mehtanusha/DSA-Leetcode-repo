@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
 ## Matrix
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
