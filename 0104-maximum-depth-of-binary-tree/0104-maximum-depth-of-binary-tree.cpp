@@ -17,23 +17,18 @@ public:
         queue<TreeNode*>que;
 
         que.push(root);
-        int depth = 1;
-        int maxdepth = INT_MIN;
+        int depth = 0;
         while(!que.empty()){
             int n = que.size();
             for(int i =0;i<n;i++){
                 TreeNode* temp = que.front();
                 que.pop();
-                if(temp->left == nullptr && temp->right == nullptr){
-                    maxdepth = max(maxdepth,depth);
-                }
-
                 if(temp->left != nullptr) que.push(temp->left);
                 if(temp->right != nullptr) que.push(temp->right);
                 
             }
             depth ++;
         }
-        return maxdepth;
+        return depth;
     }
 };
