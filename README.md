@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0735-asteroid-collision) |
+| [1688-count-of-matches-in-tournament](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1688-count-of-matches-in-tournament) |
 ## Greedy
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1688-count-of-matches-in-tournament](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
