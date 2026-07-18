@@ -15,10 +15,28 @@ public:
         if(p == nullptr && q == nullptr) return true;
         if((p == nullptr && q != nullptr ) || ((q == nullptr && p != nullptr ))) return false;
 
-        if(p->val == q->val){
-            return isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
+        queue<TreeNode*>que;
+        que.push(p);
+        que.push(q);
+        while(!que.empty()){
+            TreeNode* temp1 = que.front();
+            que.pop();
+            TreeNode* temp2 = que.front();
+            que.pop();
+
+            if(temp1->val != temp2->val) return false;
+            if((temp1->left != nullptr && temp2 ->left == nullptr) || (temp1->right != nullptr && temp2 ->right == nullptr) ||(temp1->left == nullptr && temp2 ->left != nullptr) || (temp1->right == nullptr && temp2 ->right != nullptr) ) return false;
+
+
+            if(temp1->left != nullptr && temp2 ->left != nullptr){
+                que.push(temp1->left);
+                que.push(temp2->left);
+            }
+            if(temp1->right != nullptr && temp2 ->right != nullptr){
+                que.push(temp1->right);
+                que.push(temp2->right);
+            }
         }
-            return false;
-        
+        return true;
     }
 };
