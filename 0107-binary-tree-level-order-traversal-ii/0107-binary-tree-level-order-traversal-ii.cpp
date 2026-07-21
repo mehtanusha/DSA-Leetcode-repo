@@ -34,9 +34,8 @@ public:
                     que.push(temp->right);
                 }
             }
-            ans.push_back(res);
+            ans.insert(ans.begin(),res);
         }
-        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
