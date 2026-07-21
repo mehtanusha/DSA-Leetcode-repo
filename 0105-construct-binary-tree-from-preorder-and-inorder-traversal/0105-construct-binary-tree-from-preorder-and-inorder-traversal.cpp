@@ -1,5 +1,4 @@
 /**
-
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
@@ -17,25 +16,26 @@ public:
             return nullptr;
         }
 
-       int rootval = preorder[idx];
+        int rootval = preorder[idx];
         int i = start;
-        for(; i<=end ; i++){
+        while(i<=end){
             if(inorder[i] == rootval){
                 break;
             }
+            i++;
         }
-        idx++;
 
+        idx++;
         TreeNode* root = new TreeNode(rootval);
         root->left = solve(start,i-1,idx,preorder,inorder);
         root->right = solve(i+1,end,idx,preorder,inorder);
         return root;
+        
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n  = preorder.size();
+        int n = preorder.size();
 
         int idx = 0;
-
         return solve(0,n-1,idx,preorder,inorder);
     }
 };
