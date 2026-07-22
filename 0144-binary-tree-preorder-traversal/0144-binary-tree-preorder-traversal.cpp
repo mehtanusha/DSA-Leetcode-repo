@@ -15,15 +15,24 @@ public:
         vector<int>ans;
         if(root == nullptr) return ans;
 
-        stack<TreeNode*>st;
+        TreeNode* curr = root;
+        while(curr != nullptr){
+            if(curr->left == nullptr){
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+            else{
+                ans.push_back(curr->val);
+                TreeNode* leftchild = curr->left; 
+                while(leftchild->right){
+                    leftchild = leftchild->right;
+                }
+                leftchild->right = curr->right;
 
-        st.push(root);
-        while(!st.empty()){
-            TreeNode* node = st.top();
-            st.pop();
-            ans.push_back(node->val);
-            if(node->right != nullptr) st.push(node->right);
-            if(node->left != nullptr) st.push(node->left);
+                TreeNode* temp = curr;
+                curr = curr->left;
+                temp->left = nullptr;
+            }
         }
         return ans;
     }
