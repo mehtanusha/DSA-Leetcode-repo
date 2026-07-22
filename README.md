@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
 |  |
 | ------- |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Brainteaser
 |  |
 | ------- |
