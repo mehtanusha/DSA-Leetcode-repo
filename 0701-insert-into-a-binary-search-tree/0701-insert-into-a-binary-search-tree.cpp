@@ -16,23 +16,11 @@ public:
             return new TreeNode(val);
         }
 
-        TreeNode* curr = root;
-        while(curr != nullptr){
-            if(curr->val >= val){
-                if(curr->left == nullptr){
-                    curr->left = new TreeNode(val);    
-                    break;
-                }
-                curr = curr->left;
-            }
-            else{
-                if(curr->right == nullptr){
-                    curr->right = new TreeNode(val);    
-                    break;
-                }
-                curr = curr->right;
-            }
-
+        if(root->val <= val){
+            root->right =  insertIntoBST(root->right,val);
+        } 
+         if(root->val > val){
+            root->left =  insertIntoBST(root->left,val);
         }
         return root;
     }
