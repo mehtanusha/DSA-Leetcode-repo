@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0901-online-stock-span) |
 ## Array
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
