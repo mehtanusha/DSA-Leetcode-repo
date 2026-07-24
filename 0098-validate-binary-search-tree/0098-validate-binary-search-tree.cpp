@@ -11,23 +11,15 @@
  */
 class Solution {
 public:
-TreeNode* prev = nullptr;
-    bool isValidBST(TreeNode* root) {
-        if(root == nullptr){
-            return true;
-        }
-        
-        if(!isValidBST(root->left)){
-            return false;
-        }
-        
-        if(prev != nullptr && prev->val >= root->val){
-            return false;
-        }
-        else{
-            prev = root;
-        }
+    bool isValid(TreeNode* root,long long min,long long max){
+        if(root == nullptr) return true;
 
-        return (isValidBST(root->right));
+        if(root->val >= max || root->val <= min){
+            return false;
+        }
+        return (isValid(root->left,min,root->val) && isValid(root->right,root->val,max)); 
+    }
+    bool isValidBST(TreeNode* root) {
+       return isValid(root,LLONG_MIN,LLONG_MAX);
     }
 };
