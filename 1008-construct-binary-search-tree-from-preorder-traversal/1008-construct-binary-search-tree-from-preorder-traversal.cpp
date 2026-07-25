@@ -11,23 +11,20 @@
  */
 class Solution {
 public:
-    TreeNode* insertnodes(TreeNode* root,int val){
-        if(root == nullptr){
-            return new TreeNode(val);
-        }
-        if(val > root->val){
-            root->right = insertnodes(root->right,val);
-        }
-        if(val < root->val){
-            root->left = insertnodes(root->left,val);
-        }
-        return root;
+    TreeNode* create(vector<int>& preorder,int &i,int bound){
+       if(i == preorder.size() || preorder[i] > bound){
+        return nullptr;
+       }
+
+       TreeNode* root = new TreeNode (preorder[i++]);
+
+       root->left = create(preorder,i,root->val);
+       root->right = create(preorder,i,bound);
+       return root;
+        
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode* root = nullptr;
-        for(int i =0;i<preorder.size();i++){
-            root = insertnodes(root,preorder[i]);
-        }
-        return root;
+       int i = 0;
+       return create(preorder,i,INT_MAX);
     }
 };
