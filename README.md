@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0846-hand-of-straights) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1688-count-of-matches-in-tournament) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0853-car-fleet) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
