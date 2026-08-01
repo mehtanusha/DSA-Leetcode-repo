@@ -3,6 +3,8 @@ public:
     int t[23][23];
 
     int solve(int i, int j, vector<int>& nums) {
+        if(i > j)
+            return 0;
 
         if(i == j)
             return nums[i];
@@ -10,8 +12,8 @@ public:
         if(t[i][j] != -1)
             return t[i][j];
 
-        int takeLeft = nums[i] - solve(i + 1, j, nums);
-        int takeRight = nums[j] - solve(i, j - 1, nums);
+        int takeLeft = nums[i] + min(solve(i + 2, j, nums),solve(i+1,j-1,nums));
+        int takeRight = nums[j] + min(solve(i+1, j-1, nums),solve(i,j-2,nums));
 
         return t[i][j] = max(takeLeft, takeRight);
     }
@@ -20,6 +22,10 @@ public:
         int n = nums.size();
         memset(t,-1,sizeof(t));
 
-        return solve(0, n - 1, nums) >= 0;
+        int total  = accumulate(nums.begin(),nums.end(),0);
+        int p1 = solve(0, n - 1, nums);
+        int p2 = total - p1;
+
+        return p1>=p2;
     }
 };
