@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0496-next-greater-element-i) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0143-reorder-list) |
 ## Binary Search Tree
 |  |
