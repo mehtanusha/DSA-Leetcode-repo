@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0045-jump-game-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0076-minimum-window-substring) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1260-shift-2d-grid) |
