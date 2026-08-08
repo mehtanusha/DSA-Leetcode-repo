@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2104-sum-of-subarray-ranges) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1260-shift-2d-grid) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Sliding Window
 |  |
 | ------- |
