@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
