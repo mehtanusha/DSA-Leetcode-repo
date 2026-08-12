@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0853-car-fleet) |
+| [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -541,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1408-string-matching-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
