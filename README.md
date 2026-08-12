@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3151-special-array-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
