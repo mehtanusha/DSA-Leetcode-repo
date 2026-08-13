@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2104-sum-of-subarray-ranges) |
