@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Data Stream
@@ -557,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
