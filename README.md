@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2418-sort-the-people) |
+| [2965-find-missing-and-repeated-values](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3151-special-array-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2418-sort-the-people](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2418-sort-the-people) |
+| [2965-find-missing-and-repeated-values](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1260-shift-2d-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3658-gcd-of-odd-and-even-sums) |
