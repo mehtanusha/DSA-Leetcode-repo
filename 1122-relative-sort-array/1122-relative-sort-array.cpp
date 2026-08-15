@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
-        unordered_map<int,int>freq;
+        vector<int>freq(1001,0);
 
         for(int num : arr1){
             freq[num]++;
