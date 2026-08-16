@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0260-single-number-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0138-copy-list-with-random-pointer) |
+| [0229-majority-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0383-ransom-note) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
@@ -616,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1122-relative-sort-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
