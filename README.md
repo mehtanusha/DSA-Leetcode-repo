@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1590-make-sum-divisible-by-p) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
+| [1590-make-sum-divisible-by-p](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1590-make-sum-divisible-by-p) |
 ## Math
 |  |
 | ------- |
