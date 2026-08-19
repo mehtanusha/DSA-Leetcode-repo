@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0119-pascals-triangle-ii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
@@ -653,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0229-majority-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
