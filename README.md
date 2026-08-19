@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0905-sort-array-by-parity](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0853-car-fleet) |
+| [0905-sort-array-by-parity](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1122-relative-sort-array) |
