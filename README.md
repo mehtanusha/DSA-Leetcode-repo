@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -688,4 +692,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0070-climbing-stairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
