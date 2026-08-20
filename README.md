@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2965-find-missing-and-repeated-values](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3151-special-array-i) |
 ## Hash Table
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
