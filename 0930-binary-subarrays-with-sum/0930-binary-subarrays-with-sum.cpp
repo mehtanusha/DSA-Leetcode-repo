@@ -2,29 +2,30 @@ class Solution {
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
         int n = nums.size();
-        int ans = 0;
+        int i = 0;
         int sum = 0;
-        int l = 0;
-        int r = 0;
-        int count_zeroes = 0;
+        int ans = 0;
+        int cntzero = 0;
 
-        while(r<n){
-           sum = sum + nums[r];
-           while(l<r && (nums[l] == 0 || sum > goal)){
-                if(nums[l] == 0){
-                    count_zeroes++;
-                }else{
-                    count_zeroes = 0;
-                }
-                sum =  sum - nums[l];
-                l++;
-           }
+        for(int j = 0; j < n; j++) {
+            sum += nums[j];
 
-           if(sum == goal){
-            ans = ans + count_zeroes +1 ;
-           }
-           r++;
+            while(sum > goal) {
+                sum -= nums[i];
+                i++;
+                cntzero = 0;
+            }
+
+            while(i < j && nums[i] == 0) {
+                cntzero++;
+                i++;
+            }
+
+            if(sum == goal && i<= j) {
+                ans += cntzero + 1;
+            }
         }
+
         return ans;
     }
 };
