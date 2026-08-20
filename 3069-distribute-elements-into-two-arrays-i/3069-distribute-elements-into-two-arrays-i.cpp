@@ -1,23 +1,22 @@
 class Solution {
 public:
     vector<int> resultArray(vector<int>& nums) {
-        vector<int>arr1;
-        vector<int>arr2;
-        arr1.push_back(nums[0]);
-        arr2.push_back(nums[1]);
-    
-        for(int i=2;i<nums.size();i++){
-            if(arr1.back() > arr2.back()){
-                arr1.push_back(nums[i]);
-            }else{
-                arr2.push_back(nums[i]);
+        int n = nums.size();
+        vector<int>arr(n);
+        arr[0] = nums[0];
+        arr[n-1] = nums[1];
+
+        int idx = 0;
+        int revidx = n-1;
+        for(int i=2;i<n;i++){
+            if(arr[idx] > arr[revidx]){
+                arr[++idx] = nums[i];
+            }
+            else{
+                arr[--revidx] = nums[i];
             }
         }
-
-        int n = arr2.size();
-        for(int i=0;i<n;i++){
-            arr1.push_back(arr2[i]);
-        }
-        return arr1;
+        reverse(arr.begin() + revidx,arr.end());
+        return arr;
     }
 };
