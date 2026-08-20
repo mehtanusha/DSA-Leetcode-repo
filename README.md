@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0853-car-fleet) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0739-daily-temperatures) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1688-count-of-matches-in-tournament) |
