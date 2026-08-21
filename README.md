@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0554-brick-wall) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0735-asteroid-collision) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0977-squares-of-a-sorted-array) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0905-sort-array-by-parity) |
@@ -443,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
