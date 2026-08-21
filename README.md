@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1590-make-sum-divisible-by-p) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Matrix
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Prefix Sum
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1122-relative-sort-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1913-maximum-product-difference-between-two-pairs) |
