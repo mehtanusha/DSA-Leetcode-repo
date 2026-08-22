@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0229-majority-element-ii) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
