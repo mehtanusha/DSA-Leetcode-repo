@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
+| [1052-grumpy-bookstore-owner](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1052-grumpy-bookstore-owner) |
 | [1122-relative-sort-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
