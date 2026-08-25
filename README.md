@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0901-online-stock-span) |
 ## Array
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0974-subarray-sums-divisible-by-k) |
