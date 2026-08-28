@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1598-crawler-log-folder) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2418-sort-the-people](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2418-sort-the-people) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1598-crawler-log-folder) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2206-divide-array-into-equal-pairs) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0645-set-mismatch) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
