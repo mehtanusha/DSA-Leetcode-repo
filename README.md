@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1052-grumpy-bookstore-owner) |
 | [1122-relative-sort-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1122-relative-sort-array) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
+| [1046-last-stone-weight](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
