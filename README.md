@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3151-special-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3903-smallest-stable-index-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
