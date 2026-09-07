@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2418-sort-the-people) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2418-sort-the-people) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
