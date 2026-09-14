@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0316-remove-duplicate-letters) |
