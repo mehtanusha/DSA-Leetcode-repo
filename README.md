@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1496-path-crossing](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1496-path-crossing) |
 | [1598-crawler-log-folder](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1496-path-crossing](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1636-sort-array-by-increasing-frequency) |
