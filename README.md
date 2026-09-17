@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0496-next-greater-element-i) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Heap (Priority Queue)
 |  |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1394-find-lucky-integer-in-an-array) |
