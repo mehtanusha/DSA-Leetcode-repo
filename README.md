@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1496-path-crossing](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1496-path-crossing) |
 | [1598-crawler-log-folder](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1598-crawler-log-folder) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1768-merge-strings-alternately) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1590-make-sum-divisible-by-p) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1930-unique-length-3-palindromic-subsequences) |
