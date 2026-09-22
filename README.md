@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3110-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2965-find-missing-and-repeated-values](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3151-special-array-i) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1408-string-matching-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1408-string-matching-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -881,4 +884,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0836-rectangle-overlap) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
