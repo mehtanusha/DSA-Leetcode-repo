@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1260-shift-2d-grid) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0189-rotate-array) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0260-single-number-iii) |
