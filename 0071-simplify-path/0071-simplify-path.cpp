@@ -4,16 +4,16 @@ public:
         string token = "";
 
         stringstream ss(path);
-        stack<string>st;
+        vector<string>st;
 
         while(getline(ss,token,'/')){
             if(token == "" || token == "."){
                 continue;
             }
             if(token != ".."){
-                st.push(token);
+                st.push_back(token);
             }else if(!st.empty()){
-                st.pop();
+                st.pop_back();
             }
         }
         if(st.empty()){
@@ -21,10 +21,10 @@ public:
         }
         string result = "";
 
-        while(!st.empty()){
-            result = "/" +st.top()+result; 
-            st.pop();
+        for(auto &token : st){
+            result = result + "/" + token;
         }
+      
         return result;
     }
 };
