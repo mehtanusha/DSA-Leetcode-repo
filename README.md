@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0680-valid-palindrome-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0953-verifying-an-alien-dictionary) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1512-number-of-good-pairs) |
@@ -912,4 +914,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
