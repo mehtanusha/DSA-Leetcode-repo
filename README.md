@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2053-kth-distinct-string-in-an-array) |
