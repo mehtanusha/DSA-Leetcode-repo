@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0763-partition-labels) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0763-partition-labels) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Heap (Priority Queue)
 |  |
