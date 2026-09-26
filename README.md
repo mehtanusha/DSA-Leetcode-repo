@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0763-partition-labels) |
+| [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0763-partition-labels) |
+| [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0904-fruit-into-baskets) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0763-partition-labels) |
+| [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0905-sort-array-by-parity) |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -646,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1394-find-lucky-integer-in-an-array) |
