@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0977-squares-of-a-sorted-array) |
+| [0978-longest-turbulent-subarray](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [0978-longest-turbulent-subarray](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0978-longest-turbulent-subarray) |
 | [1025-divisor-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1025-divisor-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1406-stone-game-iii) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1052-grumpy-bookstore-owner) |
