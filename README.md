@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0953-verifying-an-alien-dictionary) |
+| [0973-k-closest-points-to-origin](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0978-longest-turbulent-subarray) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1122-relative-sort-array) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1046-last-stone-weight) |
 | [1405-longest-happy-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1405-longest-happy-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -685,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -954,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -974,4 +981,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1071-greatest-common-divisor-of-strings) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
