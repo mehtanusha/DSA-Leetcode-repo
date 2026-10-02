@@ -2,59 +2,40 @@ class Solution {
 public:
     string reorganizeString(string s) {
         int n = s.size();
+        priority_queue<pair<int,char>>pq;
+        vector<int>freq(26,0);
 
-        vector<int> freq(26, 0);
-
-        for(char c : s){
-            freq[c - 'a']++;
+        for(int i=0;i<s.size();i++){
+            freq[s[i]-'a']++;
         }
-
-        string ans(n, ' ');
-
-        int maxfreq = 0;
-        char maxchar;
-
-        // Find maximum frequency character
-        for(int i = 0; i < 26; i++){
-            if(freq[i] > maxfreq){
-                maxfreq = freq[i];
-                maxchar = 'a' + i;
+        for(int i=0;i<26;i++){
+            if(freq[i] > 0){
+                pq.push({freq[i],i+'a'});
             }
         }
 
-        // Impossible case
-        if(maxfreq > (n + 1) / 2){
-            return "";
-        }
-
+        string ans(n,' ');
         int idx = 0;
+        while(!pq.empty()){
+            char ch = pq.top().second;
+            int freq = pq.top().first;
+            pq.pop();
 
-        // Place maximum frequency character
-        while(freq[maxchar - 'a'] > 0){
-            ans[idx] = maxchar;
-            freq[maxchar - 'a']--;
-
-            idx += 2;
-
-            if(idx >= n){
-                idx = 1;
-            }
-        }
-
-        // Place remaining characters
-        for(int i = 0; i < 26; i++){
-            while(freq[i] > 0){
-                ans[idx] = 'a' + i;
-                freq[i]--;
-
-                idx += 2;
-
+            while(freq > 0){
                 if(idx >= n){
                     idx = 1;
                 }
+                ans[idx] = ch;
+                idx+=2;
+
+                freq--;
             }
         }
-
+        for(int i=1;i<n;i++){
+            if(ans[i] == ans[i-1]){
+                return "";
+            }
+        }
         return ans;
     }
 };
