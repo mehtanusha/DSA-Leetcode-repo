@@ -1,59 +1,44 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
+        vector<int>freq(26,0);
 
-        // 1. Count frequency of every task
-        vector<int> freq(26, 0);
-
-        for(char task : tasks) {
-            freq[task - 'A']++;
+        for(int t : tasks){
+            freq[t-'A']++;
         }
+        priority_queue<int>pq;
 
-        // 2. Put all frequencies into max heap
-        priority_queue<int> pq;
-
-        for(int i = 0; i < 26; i++) {
-            if(freq[i] > 0) {
+        for(int i=0;i<26;i++){
+            if(freq[i] > 0){
                 pq.push(freq[i]);
             }
         }
 
         int time = 0;
 
-        // 3. Process tasks in groups of n+1
-        while(!pq.empty()) {
-
-            vector<int> temp;
-
-            for(int i = 0; i < n + 1; i++) {
-
-                if(!pq.empty()) {
-
-                    int count = pq.top();
+        while(!pq.empty()){
+            vector<int>temp;
+            for(int i=0;i<n+1;i++){
+                if(!pq.empty()){
+                    int freq = pq.top();
                     pq.pop();
-
-                    count--;
-
-                    temp.push_back(count);
+                    freq--;
+                    temp.push_back(freq);
                 }
             }
 
-            // 4. Put remaining frequencies back into heap
-            for(int count : temp) {
-                if(count > 0) {
-                    pq.push(count);
+            for(int it : temp){
+                if(it > 0){
+                    pq.push(it);
                 }
             }
 
-            // 5. Calculate time
-            if(!pq.empty()) {
+            if(!pq.empty()){
                 time += n + 1;
-            }
-            else {
+            }else{
                 time += temp.size();
             }
         }
-
         return time;
     }
 };
