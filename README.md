@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0486-predict-the-winner) |
