@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0836-rectangle-overlap) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0203-remove-linked-list-elements) |
+| [0445-add-two-numbers-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
 |  |
