@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0486-predict-the-winner) |
 ## Enumeration
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
