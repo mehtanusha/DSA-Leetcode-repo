@@ -13,15 +13,12 @@ public:
     ListNode* removeElements(ListNode* head, int val) {
         ListNode* dummy = new ListNode (-1);
         dummy->next = head;
-        ListNode* curr = head;
-        ListNode* prev = dummy;
+        ListNode* curr = dummy;
 
-        while(curr != nullptr){
-            if(curr->val == val){
-                prev->next = curr->next;
-                curr = curr->next;
+        while(curr->next != nullptr){
+            if(curr->next->val == val){
+                curr->next = curr->next->next;
             }else{
-                prev = curr;
                 curr = curr->next;
             }
             
