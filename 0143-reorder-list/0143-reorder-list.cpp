@@ -3,50 +3,59 @@
  * struct ListNode {
  *     int val;
  *     ListNode *next;
- *     ListNode() :
- . val(0), next(nullptr) {}
+ *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
+    ListNode* findmiddle(ListNode* head){
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast != nullptr && fast->next != nullptr){
+            fast = fast->next->next;
+            slow = slow->next;
+        }
+        return slow;
+    }
+
     ListNode* reverse(ListNode* head){
-       if(head == nullptr) return nullptr;
+        ListNode* curr = head;
         ListNode* prev = nullptr;
-        while(head){
-           ListNode* currnext = head->next;
-           head->next = prev;
-           prev = head;
-           head = currnext;
+        ListNode* next = nullptr;
+
+        while(curr!=nullptr){
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
         }
         return prev;
     }
     void reorderList(ListNode* head) {
         if(head == nullptr || head->next == nullptr) return;
-        ListNode* slow = head;
-        ListNode* fast = head;
 
-        while(fast->next!=nullptr && fast->next->next!=nullptr){
-            slow = slow->next;
-            fast = fast->next->next;
+        ListNode* middle = findmiddle(head);
+        ListNode* second = middle->next;
+        middle->next = nullptr;
+
+        second = reverse(second);
+
+        ListNode* p1 = head;
+        ListNode* p2 = second;
+
+        while(p2 != nullptr){
+            ListNode* temp = p1->next;
+            ListNode* temp2 = p2->next;
+
+            p1->next = p2;
+            p2->next = temp;
+
+            p1 = temp;
+            p2 = temp2;
         }
-        ListNode* l1 = head;
-        ListNode* temp = slow->next;
-        slow->next = nullptr;
-        ListNode* l2 =  reverse(temp);
-
-
-        while(l2!=nullptr){
-            ListNode* temp1 = l1->next;
-            ListNode* temp2 = l2->next;
-
-            l1->next = l2;
-            l2->next = temp1;
-            l1 = temp1;
-            l2 = temp2;
-        }
-    
+        return;
     }
 };
