@@ -1,80 +1,27 @@
 class Solution {
 public:
 
-    ListNode* reverse(ListNode* left, ListNode* right) {
-        ListNode* curr = left;
-        ListNode* prev = nullptr;
-        ListNode* next = nullptr;
-
-        while (curr != right) {
-            next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-
-        right->next = prev;
-
-        return right;
-    }
-
-    ListNode* reverseBetween(ListNode* head, int left, int right) {
-
-        if (head == nullptr || head->next == nullptr) {
+    ListNode* reverseBetween(ListNode* head,int left, int right) {
+        if(head == nullptr || left == right){
             return head;
         }
+        ListNode* dummy = new ListNode(-1);
+        dummy->next = head;
 
-        if (left == right) {
-            return head;
+        ListNode* prev = dummy;
+        for(int i=1;i<left;i++){
+            prev = prev->next;
         }
+        
+        ListNode* curr = prev->next;
 
-        ListNode* curr = head;
-        ListNode* lefttail = nullptr;
-        ListNode* revhead = nullptr;
-        ListNode* revtail = nullptr;
-        ListNode* righthead = nullptr;
+        for(int i=0;i<right-left;i++){
+            ListNode* next = curr->next;
 
-        int l = left;
-        int r = right;
-
-        while (curr != nullptr && r > 1) {
-
-            if (l == 2) {
-                lefttail = curr;
-                revhead = curr->next;
-            }
-
-            curr = curr->next;
-            l--;
-            r--;
-
-            if (r == 1) {
-                revtail = curr;
-                righthead = curr->next;
-            }
+            curr->next = next->next;
+            next->next = prev->next;
+            prev->next = next;
         }
-
-        // left == 1 case
-        if (left == 1) {
-            revhead = head;
-            revtail = curr;
-            righthead = curr->next;
-
-            ListNode* newhead = reverse(revhead, revtail);
-
-            revhead->next = righthead;
-
-            return newhead;
-        }
-
-        lefttail->next = nullptr;
-        revtail->next = nullptr;
-
-        ListNode* newhead = reverse(revhead, revtail);
-
-        lefttail->next = newhead;
-        revhead->next = righthead;
-
-        return head;
+        return dummy->next;
     }
 };
