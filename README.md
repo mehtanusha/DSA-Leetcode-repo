@@ -883,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0143-reorder-list) |
