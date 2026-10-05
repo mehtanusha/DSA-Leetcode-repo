@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
+| [0856-score-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0856-score-of-parentheses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
