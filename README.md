@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1405-longest-happy-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1405-longest-happy-string) |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
