@@ -15,43 +15,50 @@ public:
 */
 
 class Solution {
-public:
-    Node* copyRandomList(Node* head) {
-        if(head == nullptr) return nullptr;
-        unordered_map<Node*,Node*> mp;
-        
-        Node* prev = nullptr;
-        Node* curr = head;
-        Node* newHead = nullptr;
-        while(curr){
-            Node* temp = new Node(curr->val);
-            mp[curr] = temp;
-
-            if(newHead == nullptr){
-                newHead = temp;
-                prev = newHead;
-            }else{
-                prev->next = temp;
-                prev = temp;;
-            }
-            curr = curr->next;
+public: 
+    void insertcopynodes(Node* head){
+        Node* temp = head;
+        while(temp!=nullptr){
+            Node* copynode = new Node(temp->val);
+            copynode->next = temp->next;
+            temp->next = copynode;
+            if(temp->next!=nullptr)
+            temp = temp->next->next;
         }
-
-        //fill random pointers
-
-        curr = head;
-        Node* newcurr = newHead;
-
-        while(curr){
-            if(curr->random == nullptr){
-                newcurr->random = nullptr;
+    }
+    void connectrandompointers(Node* head){
+        Node* temp = head;
+        while(temp!=nullptr){
+            Node* copynode = temp->next;
+            if(temp->random){
+                copynode->random = temp->random->next;
             }
             else{
-                newcurr->random = mp[curr->random];
+                copynode->random = nullptr;
             }
-            curr = curr->next;
-            newcurr = newcurr->next;
+            temp = temp->next->next;
         }
-        return newHead;
+    }
+    Node* getdeepcopylist(Node* head){
+        Node* dummynode = new Node(-1);
+
+        Node* res = dummynode;
+        Node* temp = head;
+        while(temp!=nullptr){
+            res->next = temp->next;
+            temp->next = temp->next->next;
+            res = res->next;
+            temp = temp->next;     
+            }
+            return dummynode->next;
+    }
+
+    Node* copyRandomList(Node* head){
+        if(head==nullptr){
+            return head;
+        }
+        insertcopynodes(head);
+        connectrandompointers(head);
+        return getdeepcopylist(head);
     }
 };
