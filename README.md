@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1496-path-crossing](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1496-path-crossing) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1405-longest-happy-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1405-longest-happy-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -989,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Z Algorithm
