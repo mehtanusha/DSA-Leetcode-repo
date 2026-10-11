@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Tree
