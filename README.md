@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2104-sum-of-subarray-ranges) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2418-sort-the-people) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2780-minimum-index-of-a-valid-split) |
