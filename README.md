@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1922-count-good-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2864-maximum-odd-binary-number) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1922-count-good-numbers) |
 ## Enumeration
 |  |
 | ------- |
