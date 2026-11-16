@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2418-sort-the-people) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
