@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2864-maximum-odd-binary-number](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2864-maximum-odd-binary-number) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/3042-count-prefix-and-suffix-pairs-i) |
