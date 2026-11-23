@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0049-group-anagrams) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/mehtanusha/DSA-Leetcode-repo/tree/master/0078-subsets) |
 ## Simulation
 |  |
